@@ -1,0 +1,43 @@
+body {
+    background: #CCCCCC
+}
+
+p {
+    text-align: center;
+}
+
+em strong {
+    color: #FF0000;
+}
+h1 {
+    text-align: center
+}
+
+p {
+    text-align: center;
+}
+
+#missao {
+    font-size: 20px
+}
+#solda2{
+    width: 100%;
+}
+body {
+
+}
+
+#principal{
+    background: #CCCCCC;
+    padding: 30px;
+}
+.titulo-centro {
+    padding-left: 20px;
+}
+.titulo-centro {
+    text-align: center
+}
+main{
+    width: 940px;
+    margin: 0 auto;
+}
